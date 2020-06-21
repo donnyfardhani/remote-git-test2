@@ -6,6 +6,7 @@
     <title>Coba git remote 2</title>
 </head>
 <body>
+    <h1>Hello world</h1>
     <p>Coba push local</p>
 </body>
 </html>
