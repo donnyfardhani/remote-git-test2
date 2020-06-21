@@ -8,5 +8,7 @@
 <body>
     <h1>Hello world</h1>
     <p>Coba push local</p>
+    <li>satu</li>
+    <li>dua</li>
 </body>
 </html>
